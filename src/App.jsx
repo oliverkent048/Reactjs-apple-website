@@ -5,7 +5,7 @@ import ProductSection from './components/ProductSection';
 import Footer from './components/Footer';
 
 function App() {
-  return (
+  return ( 
     <div className="App">
       <Navbar />
       <HeroSection />
